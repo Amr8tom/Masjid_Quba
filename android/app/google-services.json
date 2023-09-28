@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "746245918698",
+    "project_id": "salah-times-ab6d2",
+    "storage_bucket": "salah-times-ab6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746245918698:android:66b1ff7b952119e421ac93",
+        "android_client_info": {
+          "package_name": "com.example.myfriend_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY7gL1a2RXTqs8Gvt2QxQ94Z00MVlct5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
